@@ -1,4 +1,7 @@
-Check out this project [here](http://robosearch.gearhostpreview.com/)
+Check out this project hosted at GearHost [here](http://robosearch.gearhostpreview.com/)
+
+It was also published using npm "gh-pages -d build" with NPM [here](https://nickpax.github.io/robofriends/)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
