@@ -1,6 +1,4 @@
-Check out this project hosted at GearHost [here](http://robosearch.gearhostpreview.com/)
-
-It was also published using npm "gh-pages -d build" with NPM [here](https://nickpax.github.io/robofriends/)
+This project is published using npm "gh-pages -d build" with NPM [here](https://nickpax.github.io/robofriends/)
 
 
 
